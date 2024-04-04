@@ -26,7 +26,7 @@ const App = () => {
         <Menu />
         <div className="banner-container">
           <img
-            src="./src/assets/banner.jpg"
+            src="./public/banner.jpg"
             alt="Banner Image"
             className="banner-image"
           />
