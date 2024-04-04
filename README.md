@@ -28,13 +28,19 @@ Vibe is a front-end project for displaying upcoming and recommended events. It p
    npm install
    ```
 
-3. Run the development server:
+3. Install libraries:
+
+   ```bash
+   npm i bootstrap axios react-spinners @emotion/react swiper
+   ```
+
+4. Run the development server:
 
    ```bash
     npm run dev
    ```
 
-4. Open the browser and visit `http://localhost:5137` to view the app.
+5. Open the browser and visit `http://localhost:5137` to view the app.
 
 ## Contributing
 
