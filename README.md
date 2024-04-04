@@ -26,31 +26,25 @@ Vibe is built using the following technologies:
 
 ## Setup and Local Run Instructions
 
-1. Clone the repository:
-
-   ```bash
-   https://github.com/TarunRaveesh/Vibe
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. Install libraries:
+2. Install libraries:
 
    ```bash
    npm i bootstrap axios react-spinners @emotion/react swiper
    ```
 
-4. Run the development server:
+3. Run the development server:
 
    ```bash
     npm run dev
    ```
 
-5. Open the browser and visit `http://localhost:5137` to view the app.
+4. Open the browser and visit `http://localhost:5137` to view the app.
 
 ## Contributing
 
