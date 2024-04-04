@@ -1,3 +1,8 @@
+
+Sure, here's the updated markdown content with additional details about the tech stack used:
+
+markdown
+Copy code
 # Vibe
 
 Vibe is a front-end project for displaying upcoming and recommended events. It provides a user-friendly interface to browse and discover exciting events happening around.
@@ -10,9 +15,19 @@ Vibe is a front-end project for displaying upcoming and recommended events. It p
 - **Event Recommendations:** Provide personalized event recommendations based on user preferences.
 - **Easy Setup:** Quick setup and deployment process for local development and production.
 
+## Tech Stack
+
+Vibe is built using the following technologies:
+
+- **React:** A JavaScript library for building user interfaces.
+- **Vite:** A next-generation frontend tooling that provides a fast development server, instant hot module replacement (HMR), and optimized builds.
+- **CSS:** Styling is done using CSS.
+- **JavaScript:** Programming language used for scripting and interactivity.
+- **Bootstrap:** A popular CSS framework for building responsive and mobile-first websites.
+
 ## Live Site
 
-[Visit Vibe](https://your-live-site-url.com)
+[Visit Vibe](https://vibe-2lny.vercel.app/)
 
 ## Setup and Local Run Instructions
 
